@@ -6,18 +6,18 @@ export default function Typewriter() {
     <TypeAnimation
       sequence={[
         // Same substring at the start will only be typed out once, initially
-        'नमस्ते',
-        1000, // wait 1s before replacing "Mice" with "Hamsters"
-        'Hello',
-        1000,
-        'こんにちは',
-        1000,
-        '你好',
-        1000
+        'नमस्ते!',
+        2000, // wait 1s before replacing "Mice" with "Hamsters"
+        'Hello!',
+        2000,
+        'こんにちは!',
+        2000,
+        '你好!',
+        2000
       ]}
       wrapper="span"
-      speed={50}
-      style={{ fontSize: '2em', display: 'inline-block' }}
+      speed={1}
+      style={{ display: 'inline-block'}}
       repeat={Infinity}
     />
   )
