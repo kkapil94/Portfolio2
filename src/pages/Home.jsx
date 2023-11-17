@@ -1,5 +1,6 @@
 import HeroSection from "../components/HeroSection";
-import Skills from "../components/Skills";
+import ProjectSection from "../components/ProjectSection";
+import SkillSection from "../components/SkillSection";
 
 
 export default function(){
@@ -7,7 +8,9 @@ export default function(){
        <>
             <HeroSection/>
             <div className="w-full h-[1px] bg-white"></div>
-            <Skills/>
+            <SkillSection/>
+            <div className="w-full h-[1px] bg-white"></div>
+            <ProjectSection/>
        </>
     )
 }

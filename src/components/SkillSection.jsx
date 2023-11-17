@@ -3,11 +3,11 @@ import front from "../utils/front.json";
 import back from "../utils/back.json";
 import other from "../utils/other.json";
 
-export default function Skills() {
+export default function SkillSection() {
   return (
     <>
-      <section className="mx-28 mt-28 mb-12">
-        <h1 className="text-6xl text-center text-white font-extrabold mb-12">
+      <section className="mx-28 mt-20 mb-12">
+        <h1 className="text-6xl text-center text-white font-extrabold mb-24">
           Skills & expertise
         </h1>
         <div className="grid grid-cols-3 gap-4">

@@ -4,7 +4,7 @@ import Typewriter from "./Typewriter";
 export default function HeroSection() {
   return (
     <>
-      <main className="bg-[#171321] pt-20 px-28 h-[calc(100vh-5.25rem)]">
+      <main className="bg-[#171321] py-24 px-28 ">
         <div className="grid grid-cols-3  items-center">
           <div className="col-span-2"> 
             <div className="text-white font-bold text-6xl flex">
