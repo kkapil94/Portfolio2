@@ -1,0 +1,10 @@
+[
+    {
+        "name":"git",
+        "img_src":"/images/git-logo.svg"
+    },
+    {
+        "name":"github",
+        "img_src":"/images/github-logo.svg"
+    }
+]

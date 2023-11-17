@@ -1,0 +1,18 @@
+[
+    {
+        "name": "nodejs",
+        "img_src": "/images/nodejs-logo.svg"
+    },
+    {
+        "name": "express",
+        "img_src": "/images/express-logo.svg"
+    },
+    {
+        "name": "mongodb",
+        "img_src": "/images/mongo-logo.svg"
+    },
+    {
+        "name": "mongoose",
+        "img_src": "/images/mongoose-logo.svg"
+    }
+]

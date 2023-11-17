@@ -1,0 +1,34 @@
+[
+    {
+        "name": "html",
+        "img_src": "/images/html-logo.svg"
+    },
+    {
+        "name": "css",
+        "img_src": "/images/css-logo.svg"
+    },
+    {
+        "name": "js",
+        "img_src": "/images/js-logo.svg"
+    },
+    {
+        "name": "react",
+        "img_src": "/images/react-logo.svg"
+    },
+    {
+        "name": "redux",
+        "img_src": "/images/redux-logo.svg"
+    },
+    {
+        "name": "tailwind",
+        "img_src": "/images/tw-logo.svg"
+    },
+    {
+        "name": "mui",
+        "img_src": "/images/mui-logo.svg"
+    },
+    {
+        "name":"nextjs",
+        "img_src": "/images/next-logo.svg"
+    }
+]
