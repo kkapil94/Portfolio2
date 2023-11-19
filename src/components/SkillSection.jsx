@@ -6,7 +6,7 @@ import other from "../utils/other.json";
 export default function SkillSection() {
   return (
     <>
-      <section className="mx-28 mt-20 mb-12">
+      <section className="mx-28 mt-20 mb-32">
         <h1 className="text-6xl text-center text-white font-extrabold mb-24">
           Skills & expertise
         </h1>

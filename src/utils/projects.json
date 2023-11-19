@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Chat-app",
+        "img_src": "/images/chatapp.png",
+        "desc": "Lorem ipsum dolor sit amet conse ctetur, adipis icing elit Placeat amet,labore ips umd olor evolupt expl icabor epreh ende rit, conseq uatur sed adipisci itaque debitis, officiis quidem!",
+        "project": "https://chat-app-git-master-kkapil94.vercel.app/"
+    },
+    {
+        "name": "E-commerce",
+        "img_src": "/images/ecomm.png",
+        "desc": "Lorem ipsum dolor sit amet conse ctetur, adipis icing elit Placeat amet,labore ips umd olor evolupt expl icabor epreh ende rit, conseq uatur sed adipisci itaque debitis, officiis quidem!",
+        "project":"https://e-commerce-kkapil94.vercel.app/"
+    },
+    {
+        "name": "Expense tracker App",
+        "img_src": "/images/expense.png",
+        "desc": "Lorem ipsum dolor sit amet conse ctetur, adipis icing elit Placeat amet,labore ips umd olor evolupt expl icabor epreh ende rit, conseq uatur sed adipisci itaque debitis, officiis quidem!",
+        "project": "https://capable-starship-4e3ba4.netlify.app/"
+    },
+    {
+        "name": "Quiz App",
+        "img_src": "/images/quiz.png",
+        "desc": "Lorem ipsum dolor sit amet conse ctetur, adipis icing elit Placeat amet,labore ips umd olor evolupt expl icabor epreh ende rit, conseq uatur sed adipisci itaque debitis, officiis quidem!",
+        "project": "https://quiz-app-murex-one.vercel.app/"
+    },
+    {
+        "name": "NFT-Marketplace",
+        "img_src": "/images/nftmarket.png",
+        "desc": "Lorem ipsum dolor sit amet conse ctetur, adipis icing elit Placeat amet,labore ips umd olor evolupt expl icabor epreh ende rit, conseq uatur sed adipisci itaque debitis, officiis quidem!",
+        "project": "https://nft-marketplace-nine-umber.vercel.app/"
+    }
+]
