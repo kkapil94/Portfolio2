@@ -12,11 +12,11 @@ export default function SkillSection() {
         </h1>
         <div className="grid grid-cols-3 gap-4">
           <div className="border-2 bg-[#0d1b2a] border-solid border-white rounded-2xl py-1">
-            <h2 className="text-4xl text-center text-white font-bold">
+            <h2 className="text-4xl my-4 text-center text-white font-bold">
               Frontend
             </h2>
             <div className="h-[1px]  w-full bg-white"></div>
-            <div className="px-4 my-4 flex flex-wrap items-center justify-center gap-4">
+            <div className="px-4 my-8 flex flex-wrap items-center justify-center gap-4">
               {front &&
                 front.map((item) => (
                   <div className="w-32 h-10 bg-gray-900 border-solid border-2 border-gray-600 flex items-center justify-between p-4 rounded-md">
@@ -29,11 +29,11 @@ export default function SkillSection() {
             </div>
           </div>
           <div className="border-2 bg-[#0d1b2a] border-solid border-white rounded-2xl py-1">
-            <h2 className="text-4xl text-center text-white font-bold">
+            <h2 className="text-4xl my-4 text-center text-white font-bold">
               Backend
             </h2>
             <div className="h-[1px]  w-full bg-white"></div>
-            <div className="px-4 my-4 flex flex-wrap items-center justify-center gap-4">
+            <div className="px-4 my-6 flex flex-wrap items-center justify-center gap-4">
               {back &&
                 back.map((item) => (
                   <div className="w-32 h-10 bg-gray-900 border-solid border-2 border-gray-600 flex items-center justify-between p-4 rounded-md">
@@ -46,11 +46,11 @@ export default function SkillSection() {
             </div>
           </div>
           <div className="border-2 bg-[#0d1b2a] border-solid border-white rounded-2xl py-1">
-            <h2 className="text-4xl text-center text-white font-bold">
+            <h2 className="text-4xl my-4 text-center text-white font-bold">
               Other
             </h2>
             <div className="h-[1px]  w-full bg-white"></div>
-            <div className="px-4 my-4 flex flex-wrap items-center justify-center gap-4">
+            <div className="px-4 my-8 flex flex-wrap items-center justify-center gap-4">
               {other &&
                 other.map((item) => (
                   <div className="w-32 h-10 bg-gray-900 border-solid border-2 border-gray-600 flex items-center justify-between p-4 rounded-md">
