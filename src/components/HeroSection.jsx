@@ -14,9 +14,9 @@ export default function HeroSection() {
               <h1>Everyone,</h1>
             </div>
             <h1 className="text-6xl font-bold text-white mt-12 leading-[5rem]">
-              I'm <span className="text-teal-400">Kapil</span>,<br />
+              I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#FFDEE9] to-[#B5FFFC]">Kapil</span>,<br />
               <div className="text-xl w-4/6">
-                a Full-Stack Developer,building digital worlds from code, I'm
+                a Full-Stack Developer, building digital worlds from code, I'm
                 the wizard who weaves pixels into experiences. With a blend of
                 tech sorcery and creative alchemy, I turn ideas into enchanting
                 web realities that captivate and inspire.

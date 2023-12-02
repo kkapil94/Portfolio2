@@ -15,7 +15,7 @@ export default function ProjectSection() {
                 <div className="border-2 bg-[#0d1b2a] border-solid border-white rounded-2xl">
                   <span>
                     <img
-                      className="rounded-t-2xl h-48"
+                      className="rounded-t-2xl h-56"
                       src={item.img_src}
                       alt=""
                     />
