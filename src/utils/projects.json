@@ -6,27 +6,27 @@
         "project": "https://chat-app-git-master-kkapil94.vercel.app/"
     },
     {
+        "name": "NFT-Marketplace",
+        "img_src": "/images/nftmarket.png",
+        "desc": "NFT (Non-Fungible Token) marketplace built using Next.js for robust web development, stylish and responsive design achieved with the use of Tailwind CSS for styling, Utilizes the Ethers.js library to enable seamless interaction with the Ethereum blockchain, facilitating NFT transactions and management.",
+        "project": "https://nft-marketplace-nine-umber.vercel.app/"
+    },
+    {
         "name": "E-commerce",
         "img_src": "/images/ecomm.png",
-        "desc": "Lorem ipsum dolor sit amet conse ctetur, adipis icing elit Placeat amet,labore ips umd olor evolupt expl icabor epreh ende rit, conseq uatur sed adipisci itaque debitis, officiis quidem!",
+        "desc": "E-commerce application built with the MERN stack, used Zustand for efficient state management, integrated Razorpay Payment Gateway for secure and seamless transactions, implemented a JWT-based authentication system on the backend for secure user authentication.",
         "project":"https://e-commerce-kkapil94.vercel.app/"
     },
     {
         "name": "Expense tracker App",
         "img_src": "/images/expense.png",
-        "desc": "Lorem ipsum dolor sit amet conse ctetur, adipis icing elit Placeat amet,labore ips umd olor evolupt expl icabor epreh ende rit, conseq uatur sed adipisci itaque debitis, officiis quidem!",
+        "desc": "Professional full-stack expense tracker application, Offers CRUD (Create, Read, Update, Delete) operations for seamless expense tracking, Utilizes MongoDB as the database for storing transaction data, Implements a secure authentication system based on JSON Web Tokens (JWT) to protect user accounts and data.",
         "project": "https://capable-starship-4e3ba4.netlify.app/"
     },
     {
         "name": "Quiz App",
         "img_src": "/images/quiz.png",
-        "desc": "Lorem ipsum dolor sit amet conse ctetur, adipis icing elit Placeat amet,labore ips umd olor evolupt expl icabor epreh ende rit, conseq uatur sed adipisci itaque debitis, officiis quidem!",
+        "desc": "Fully responsive quiz application developed using React, Offers a variety of quiz categories to choose from, providing diverse content, integrates an API to populate the quizzes with multiple-choice questions (MCQs), employs Material UI for elegant and user-friendly styling of the application components",
         "project": "https://quiz-app-murex-one.vercel.app/"
-    },
-    {
-        "name": "NFT-Marketplace",
-        "img_src": "/images/nftmarket.png",
-        "desc": "Lorem ipsum dolor sit amet conse ctetur, adipis icing elit Placeat amet,labore ips umd olor evolupt expl icabor epreh ende rit, conseq uatur sed adipisci itaque debitis, officiis quidem!",
-        "project": "https://nft-marketplace-nine-umber.vercel.app/"
     }
 ]
