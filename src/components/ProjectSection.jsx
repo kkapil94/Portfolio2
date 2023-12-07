@@ -25,10 +25,10 @@ export default function ProjectSection() {
                     <p className=" text-gray-300">{item.desc}</p>
                     <div className="my-6">
                       <a href={item.project} target="_blank">
-                        <button className=" rounded-3xl bg-white py-1 px-4">
+                        <button className="group rounded-3xl bg-white py-1 px-4">
                           Check it out &nbsp;&nbsp;&nbsp;&nbsp;
                           <img
-                            className="inline"
+                            className="transition-all duration-150 ease-in-out inline group-hover:relative relative left-0 group-hover:left-1"
                             src="/images/next.png"
                             alt=""
                           />
