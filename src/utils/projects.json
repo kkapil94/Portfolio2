@@ -2,7 +2,7 @@
     {
         "name": "whatsapp clone",
         "img_src": "/images/chatapp.png",
-        "desc": "This comprehensive application is developed using the MERN stack. It leverages Socket.io to enable real-time communication, while Redux ensures efficient state management across the platform. It uses Framer Animation for animations that make the user experience better.",
+        "desc": "This comprehensive application is developed using the MERN stack. It leverages Socket.io to enable real-time communication, while Redux ensures efficient state management across the platform. It uses Framer motion for animations that make the user experience better.",
         "project": "https://chat-app-theta-steel.vercel.app/login"
     },
     {
