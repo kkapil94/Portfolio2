@@ -22,7 +22,7 @@ export default function ConnectSection() {
               </div>
             </div>
             <div className="border-2 bg-[#0d1b2a] border-solid border-white rounded-2xl relative">
-              <a href="https://www.linkedin.com/in/kapil-khatri-151413249/" target="_blank">
+              <a href="https://github.com/kkapil94" target="_blank">
                 <span className="block w-60 m-auto pb-20">
                 <img className="absolute bottom-52" src="/images/github.png" alt="" />
               </span>
@@ -30,11 +30,11 @@ export default function ConnectSection() {
               <div className="px-12 mt-12">
                 <h4 className="text-2xl text-white mb-8">Github</h4>
                 <p className="text-xl text-slate-400 mb">You can see Kapil's work on github.</p>
-                <a className="my-6 text-md rounded-2xl px-4 py-1 bg-white font-md inline-block" href="https://www.linkedin.com/in/kapil-khatri-151413249/" target="_blank">Follow on Github</a>
+                <a className="my-6 text-md rounded-2xl px-4 py-1 bg-white font-md inline-block" href="https://github.com/kkapil94" target="_blank">Follow on Github</a>
               </div>
             </div>
             <div className="border-2 bg-[#0d1b2a] border-solid border-white rounded-2xl relative">
-              <a href="https://www.linkedin.com/in/kapil-khatri-151413249/" target="_blank">
+              <a href="https://twitter.com/_kapil_94" target="_blank">
                 <span className="block w-60 m-auto pb-20">
                 <img className="absolute bottom-52" src="/images/twitter.svg" alt="" />
               </span>
@@ -42,7 +42,7 @@ export default function ConnectSection() {
               <div className="px-12 mt-12">
                 <h4 className="text-2xl text-white mb-8">Twitter</h4>
                 <p className="text-xl text-slate-400 mb">You can follow Kapil on Twitter</p>
-                <a className="my-6 text-md rounded-2xl px-4 py-1 bg-white font-md inline-block" href="https://www.linkedin.com/in/kapil-khatri-151413249/" target="_blank">Follow on Twitter</a>
+                <a className="my-6 text-md rounded-2xl px-4 py-1 bg-white font-md inline-block" href="https://twitter.com/_kapil_94" target="_blank">Follow on Twitter</a>
               </div>
             </div>
           </div>
