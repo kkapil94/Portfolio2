@@ -14,5 +14,9 @@
     {
         "name": "mongoose",
         "img_src": "/images/mongoose-logo.svg"
+    },
+    {
+        "name":"mysql",
+        "img_src": "/images/mysql-logo.png"
     }
 ]

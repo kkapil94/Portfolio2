@@ -1,9 +1,9 @@
 [
     {
-        "name": "Chat-app",
+        "name": "whatsapp clone",
         "img_src": "/images/chatapp.png",
-        "desc": "Lorem ipsum dolor sit amet conse ctetur, adipis icing elit Placeat amet,labore ips umd olor evolupt expl icabor epreh ende rit, conseq uatur sed adipisci itaque debitis, officiis quidem!",
-        "project": "https://chat-app-git-master-kkapil94.vercel.app/"
+        "desc": "This comprehensive application is developed using the MERN stack. It leverages Socket.io to enable real-time communication, while Redux ensures efficient state management across the platform. It uses Framer Animation for animations that make the user experience better.",
+        "project": "https://chat-app-theta-steel.vercel.app/login"
     },
     {
         "name": "NFT-Marketplace",
