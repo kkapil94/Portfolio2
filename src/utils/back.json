@@ -18,5 +18,9 @@
     {
         "name":"mysql",
         "img_src": "/images/mysql-logo.png"
+    },
+    {
+        "name":"graphql",
+        "img_src":"/images/graphql-logo.svg"
     }
 ]

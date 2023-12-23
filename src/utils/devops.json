@@ -6,5 +6,9 @@
     {
         "name":"github",
         "img_src":"/images/github-logo.svg"
+    },
+    {
+        "name":"docker",
+        "img_src":"/images/docker-logo.svg"
     }
 ]

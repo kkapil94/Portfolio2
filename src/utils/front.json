@@ -34,5 +34,9 @@
     {
         "name":"framer",
         "img_src": "/images/framer.svg"
+    },
+    {
+        "name":"figma",
+        "img_src":"/images/figma-logo.svg"
     }
 ]
