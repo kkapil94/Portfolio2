@@ -11,7 +11,7 @@ export default function SkillSection() {
           Skills & expertise
         </h1>
         <div className="grid  xs:max-md:grid-cols-1 justify-items-center md:max-lg:grid-cols-2  grid-cols-3 gap-4">
-          <div className="border-2 xs:max-sm:w-38 sm:max-md:w-80  bg-[#0d1b2a] border-solid border-white rounded-2xl py-1">
+          <div className="border-2 xs:max-sm:w-38 sm:max-md:w-80 w-[21rem] bg-[#0d1b2a] border-solid border-white rounded-2xl py-1">
             <h2 className="xs:max-lg:text-2xl text-4xl xs:max-lg:my-2 my-4 text-center text-white font-bold">
               Frontend
             </h2>
@@ -29,7 +29,7 @@ export default function SkillSection() {
                 ))}
             </div>
           </div>
-          <div className="border-2 xs:max-sm:w-38 sm:max-md:w-80 bg-[#0d1b2a] border-solid border-white rounded-2xl py-1">
+          <div className="border-2 xs:max-sm:w-38 sm:max-md:w-80 w-[21rem] bg-[#0d1b2a] border-solid border-white rounded-2xl py-1">
             <h2 className="xs:max-lg:text-2xl text-4xl xs:max-lg:my-2 my-4 text-center text-white font-bold">
               Backend
             </h2>
@@ -46,7 +46,7 @@ export default function SkillSection() {
                 ))}
             </div>
           </div>
-          <div className="border-2 xs:max-sm:w-38 sm:max-md:w-80 bg-[#0d1b2a] border-solid border-white rounded-2xl py-1">
+          <div className="border-2 xs:max-sm:w-38 sm:max-md:w-80 w-[21rem] bg-[#0d1b2a] border-solid border-white rounded-2xl py-1">
             <h2 className="xs:max-lg:text-2xl text-4xl xs:max-lg:my-2 my-4 text-center text-white font-bold">
               Devops
             </h2>

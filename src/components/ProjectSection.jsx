@@ -12,7 +12,7 @@ export default function ProjectSection() {
           <div className="grid xs:max-md:grid-cols-1 md:max-lg:grid-cols-2 justify-items-center  grid-cols-3 xs:max-md:gap-8 md:max-4xl:gap-8">
             {projects &&
               projects.map((item) => (
-                <div className="border-2 xs:max-sm:w-[17rem] sm:max-4xl:w-80  bg-[#0d1b2a] border-solid border-white rounded-2xl">
+                <div className="border-2 xs:max-sm:w-[17rem] sm:max-md:w-80 w-[21rem]  bg-[#0d1b2a] border-solid border-white rounded-2xl">
                   <span>
                     <img
                       className="rounded-t-2xl h-56"
