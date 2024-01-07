@@ -1,0 +1,20 @@
+[
+    {
+        "name":"LinkedIn",
+        "desc":"You can follow Kapil on LinkedIn",
+        "img_src":"/images/linkedin-logo2.png",
+        "href":"https://www.linkedin.com/in/kapil-khatri-151413249/"
+    },
+    {
+        "name":"Github",
+        "desc":"You can see Kapil's work on Github",
+        "img_src":"/images/github.png",
+        "href":"https://github.com/kkapil94"
+    },
+    {
+        "name":"Twitter",
+        "desc":"You can follow Kapil on Twitter",
+        "img_src":"/images/twitter2.png",
+        "href":"https://twitter.com/_kapil_94"
+    }
+]
