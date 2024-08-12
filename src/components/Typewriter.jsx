@@ -9,10 +9,6 @@ export default function Typewriter() {
         'नमस्ते!',
         2000, // wait 1s before replacing "Mice" with "Hamsters"
         'Hello!',
-        2000,
-        'こんにちは!',
-        2000,
-        '你好!',
         2000
       ]}
       wrapper="span"
