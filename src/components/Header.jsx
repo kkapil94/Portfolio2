@@ -8,7 +8,7 @@ export default function Header() {
         <Navbar />
         <div
           id="home"
-          className="h-1 w-full bg-gradient-to-r from-[#ff87d4] via-[#ffe742] to-[#87fffb] mt-20"
+          className="h-1 w-full bg-gradient-to-r from-[#ff87d4] via-[#ffe742] to-[#87fffb] xs:max-md:mt-[4.5rem] md:mt-24 "
         ></div>
       </header>
     </>
