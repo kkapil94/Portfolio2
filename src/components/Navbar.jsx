@@ -35,7 +35,7 @@ const Navbar = () => {
         </div>
         <div className="space-y-4">
           <a
-            href="https://drive.google.com/file/d/1hXJ0D08aCevF5PueKM0CXX2nZmSBQJuR/view"
+            href="https://drive.google.com/file/d/1mQHvu0XSxfPWYqxBAxn5TafotT62jHLU/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-between w-full px-4 py-3 bg-gray-800 rounded-lg hover:bg-gray-700 transition-colors"
@@ -57,19 +57,6 @@ const Navbar = () => {
               <span>Download PDF</span>
             </div>
             <span className="text-gray-400">↓</span>
-          </a>
-
-          <a
-            href="https://linkedin.com/in/your-profile"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex items-center justify-between w-full px-4 py-3 bg-gray-800 rounded-lg hover:bg-gray-700 transition-colors"
-          >
-            <div className="flex items-center space-x-3">
-              <FileText className="h-5 w-5" />
-              <span>LinkedIn Profile</span>
-            </div>
-            <span className="text-gray-400">↗</span>
           </a>
         </div>
       </div>
