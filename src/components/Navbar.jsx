@@ -48,7 +48,7 @@ const Navbar = () => {
           </a>
 
           <a
-            href="public/kapil_resume.pdf"
+            href="/kapil_resume.pdf"
             download="kapil_resume.pdf"
             className="flex items-center justify-between w-full px-4 py-3 bg-gray-800 rounded-lg hover:bg-gray-700 transition-colors"
           >
